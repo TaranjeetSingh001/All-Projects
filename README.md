@@ -1,3 +1,10 @@
+<h1>Hello Amigos < Coders/ >! I'am Taran 👋</h1>
+
+
+
+
+
+
 - 👋 Hi, I’m @TaranjeetSingh
 - 👀 I’m interested in Web Development & Exploring New Technologies ...
 - 🌱 I’m currently learning Full Stack Web Development ...
