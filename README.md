@@ -1,7 +1,7 @@
 <h1>Hello Amigos < Coders/ >! I'am Taran 👋</h1>
 
 
-![coding](https://user-images.githubusercontent.com/72187002/171884809-e39bcb51-c8a4-466c-b090-0fa78f942a70.gif)
+![95116-coder](https://user-images.githubusercontent.com/72187002/171894289-f4250b79-7b61-4e44-ba59-553acb86f7ab.gif)
 
 
 
